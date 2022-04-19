@@ -194,6 +194,13 @@
     jsonwebtoken "^8.5.1"
     uuid "^8.3.0"
 
+"@hexhive/patch@^0.0.6-alpha.13":
+  version "0.0.6-alpha.51"
+  resolved "https://registry.yarnpkg.com/@hexhive/patch/-/patch-0.0.6-alpha.51.tgz#d082d235af50e3242e1020cf386aa4e5a26193e1"
+  integrity sha512-EajdPuHbr2k3zADS20Fp2m669/y3d/CUurcxPp0ZlG1Q/a1y8RFZ/FjhPKxL8ViYlobcqRF9t+VyyGEs3dGUUg==
+  dependencies:
+    jsondiffpatch "^0.4.1"
+
 "@js-joda/core@^3.2.0":
   version "3.2.0"
   resolved "https://registry.yarnpkg.com/@js-joda/core/-/core-3.2.0.tgz#3e61e21b7b2b8a6be746df1335cf91d70db2a273"
@@ -886,9 +893,9 @@ mimic-response@^2.0.0:
   integrity sha512-wXqjST+SLt7R009ySCglWBCFpjUygmCIfD790/kVbiGmUgfYGuB14PiTd5DwVxSV4NcYHjzMkoj5LjQZwTQLEA==
 
 minimist@^1.2.0, minimist@^1.2.3:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 mkdirp-classic@^0.5.2, mkdirp-classic@^0.5.3:
   version "0.5.3"
