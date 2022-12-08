@@ -1318,6 +1318,16 @@
   resolved "https://registry.yarnpkg.com/@gar/promisify/-/promisify-1.1.2.tgz#30aa825f11d438671d585bd44e7fd564535fc210"
   integrity sha512-82cpyJyKRoQoRi+14ibCeGPu0CwypgtBAdBhq1WfvagpCZNKqwXbKwXllYSMG91DhmG4jt9gN8eP6lGOtozuaw==
 
+"@hexhive/styles@^0.0.6-alpha.13":
+  version "0.0.6-alpha.13"
+  resolved "https://registry.yarnpkg.com/@hexhive/styles/-/styles-0.0.6-alpha.13.tgz#4c316bdbb8a6c1489faf4912b26400cdff43be8b"
+  integrity sha512-bZcFH+VpAV7MpxTRdK+o+HQyEpWoCCXxA6j21g7JiTr+skzxb+yoMIGUESxJ6FgpTh6HjxYE4gHWIx/YRWxrgQ==
+
+"@hexhive/utils@^0.0.6-alpha.13":
+  version "0.0.6-alpha.13"
+  resolved "https://registry.yarnpkg.com/@hexhive/utils/-/utils-0.0.6-alpha.13.tgz#bb2a5415a5fa39870dd40397f1e41a9c1dc89a92"
+  integrity sha512-jB7lgqBbWjymdV4ZReW8zmgVOs2QCcei+8sGhqHQkZDt48IbvfrTaklKxIKnQJpX/p1JgqiO8fjoxr802sXZQw==
+
 "@icons/material@^0.2.4":
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/@icons/material/-/material-0.2.4.tgz#e90c9f71768b3736e76d7dd6783fc6c2afa88bc8"
@@ -6761,9 +6771,9 @@ decimal.js-light@^2.4.1:
   integrity sha512-qIMFpTMZmny+MMIitAB6D7iVPEorVw6YQRWkvarTkT4tBeSLLiHzcwj6q0MmYSFCiVpiqPJTJEYIrpcPzVEIvg==
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 dedent@^0.7.0:
   version "0.7.0"
